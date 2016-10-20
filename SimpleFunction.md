@@ -6,6 +6,6 @@ October 20, 2016
 
 ```r
 se <- function(x) {
-  sd(x)/lenght(x)
+  2*sd(x)/lenght(x)
 }
 ```

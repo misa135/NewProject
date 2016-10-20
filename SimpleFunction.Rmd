@@ -10,6 +10,6 @@ output:
 # Example code for using RStudio with Git and GitHub
 ```{r }
 se <- function(x) {
-  sd(x)/lenght(x)
+  2*sd(x)/lenght(x)
 }
 ```
